@@ -44,7 +44,7 @@ class Page3 extends StatelessWidget {
                   ),
                   Center(
                     child: Text(
-                      'Thank you for choosing to donate!',
+                      'Help Lorem ipsum 01',
                       style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
@@ -53,11 +53,13 @@ class Page3 extends StatelessWidget {
                   ),
                   Center(
                     child: Text(
-                      'Please upload a picture of your receipt',
+                      'Lorem ipsum dolor sit amet adipisicing elit, sed diam nonummy nibh euismod',
                       style: TextStyle(
+                        
                         fontSize: 18,
                         fontWeight: FontWeight.w500,
                       ),
+                      textAlign: TextAlign.center,
                     ),
                   ),
                   Divider(height: 30, thickness: 3),
